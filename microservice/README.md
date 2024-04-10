@@ -1,5 +1,5 @@
 # Microservice
-The following document will show my partner how to request and receive data from the microservice.
+The following document will show how to request and receive data from the microservice.
 
 
 ## How to Programmatically Request Data:
