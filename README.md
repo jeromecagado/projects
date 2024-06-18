@@ -10,10 +10,12 @@ The repository is organized into separate folders, each representing a different
 	•	Description: A relational database system for retro games.
 	•	Tools: MySQL, Node.js, Handlebars, Visual Studio, GitHub.
 	•	Duration: January 2024 - March 2024.
+ 
 	•	Microservice Currency Exchange App
 	•	Description: A microservice for real-time currency conversion.
 	•	Tools: Python, ExchangeRatesAPI, GitHub.
 	•	Duration: September 2023 - December 2023.
+ 
 	•	Full Stack Web Project
 	•	Description: A portfolio website developed using the MERN stack.
 	•	Tools: JavaScript, HTML, CSS, MongoDB, Mongoose, Express.js, React, Node.js, REST, Visual Studio, GitHub.
